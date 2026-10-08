@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Girum Tegegn">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a2e38"/>
+      <stop offset="100%" stop-color="#222222"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="36" fill="url(#bg)"/>
+  <path
+    fill="#34b7a7"
+    d="M124 58C116.2 49.3 104.2 43.5 90 43.5c-25.6 0-46.5 20.9-46.5 46.5S64.4 136.5 90 136.5c19.1 0 35.4-11.5 42.4-28h-23.6c-4.8 6.8-12.7 11-17.8 11-14.3 0-25.8-11.5-25.8-25.8s11.5-25.8 25.8-25.8c7 0 13.5 2.8 18.3 7.3V79H90v22.5h33.8V58z"
+  />
+</svg>
